@@ -33,6 +33,7 @@ Clean CLI menu and user prompts
 M.PavanKumar
 
 Screenshot:
+
 ![Screenshot 2025-04-18 175746](https://github.com/user-attachments/assets/6931fe95-7eb8-4ea4-ae51-87e5fbbdda4e)
 ![Screenshot 2025-04-18 175759](https://github.com/user-attachments/assets/2f37a85d-fd78-49a7-8478-57c4b74b1275)
 
